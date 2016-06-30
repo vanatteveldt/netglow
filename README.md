@@ -23,7 +23,7 @@ This session is the main content of the workshop: analysing text and networks fr
 
 + [Slides](https://rawgit.com/vanatteveldt/netglow/master/session2.html)
 + [Handout: Corpus Analysis](https://rawgit.com/vanatteveldt/learningr/master/corpus.pdf)
-+ [Handout: Comparing Corpora](https://cdn.rawgit.com/vanatteveldt/learningr/master/comparing.pdf)]
++ [Handout: Comparing Corpora](https://cdn.rawgit.com/vanatteveldt/learningr/master/comparing.pdf)
 + [Handout: Topic Modeling](https://cdn.rawgit.com/vanatteveldt/learningr/master/lda.pdf)
 + [Handout: Aanlysing Social/Semantic Networks from Twitter ](https://cdn.rawgit.com/vanatteveldt/netglow/master/twitter_sna.pdf)
 
